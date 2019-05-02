@@ -2,6 +2,7 @@
 #' title: "Class 5: R Graphics"
 #' author: "Suzanna Kwak"
 #' date: "April 18th, 2019"
+#' output: github_document
 #' ---
 
 #Class 5 R graphics
